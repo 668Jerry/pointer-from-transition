@@ -5,7 +5,7 @@ using transition to implement view changing
 
 in the origin view
 
-\
+
 
     - (void)leaveThisView
     {
@@ -15,7 +15,7 @@ in the origin view
 
 in AppDelegate
 
-\
+
 
     - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
     {
